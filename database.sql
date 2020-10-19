@@ -1,4 +1,3 @@
--- Tá dando um probleminha ao inserir um dado do tipo money, porém ao dividir por 100, resolve....
 -- create database loteria;
 -- create extension btree_gin;
 
