@@ -14,3 +14,6 @@ loteria=# create extension btree_gin;
 ```
 Create all tables, index and functions in *database.sql*.
 
+## Announcements
+
+Project under development, the v1.0 will come soon.
