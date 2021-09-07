@@ -1,0 +1,4 @@
+*.py     text diff=python
+*.py3    text diff=python
+*.sql linguist-detectable=true
+*.sql linguist-language=sql
